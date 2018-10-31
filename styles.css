@@ -1,0 +1,11 @@
+img {
+    width: 260px;
+}
+
+.meat {
+    color: red;
+}
+
+.cheese {
+    text-decoration: line-through;
+}
